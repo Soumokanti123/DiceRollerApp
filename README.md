@@ -2,6 +2,19 @@
 
 ##
 
+# Introduction:-
+
+In this codebase, I build an Android app that rolls a dice and shows the result on screen.
+
+# Pre-requisites:-
+
+You need to know:
+- How to create and run a "Hello World!" app in Android Studio.
+- Familiar with using TextViews, Button and ImageViews in an app.
+- How to modify the attributes of a TextView in the Layout Editor.
+- How to create Toast and make code efficient.
+- How to extract text into a string resource to make it easier to translate your app and reuse strings.
+
 # Tools & Language :- 
 
 Android Studio
