@@ -2,6 +2,8 @@
 
 ##
 
+![Alt Text](https://media.giphy.com/media/I38qmkMXsMOFKsuer9/giphy.gif)
+
 # Introduction:-
 
 In this codebase, I build an Android app that rolls a dice and shows the result on screen.
